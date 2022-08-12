@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @javjrg
-[link](javjrg/CGO_Coupled)
+[javjrg/CGO_Coupled](https://github.com/javjrg/CGO_Coupled)
 
 
 <!---
